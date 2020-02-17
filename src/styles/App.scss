@@ -8,7 +8,7 @@ $accent-color-alt: #2ba6f3;
 $accent-color-darker-alt: #057bc5;
 $general-transition: all 0.4s;
 
-$distance-from-left: 250px;
+$distance-from-left: 200px;
 
 .App {
   background-color: $primary-color-darker;
@@ -154,7 +154,7 @@ $distance-from-left: 250px;
       display: flex;
       justify-content: center;
       .feed {
-        width: 600px;
+        width: 500px;
       }
       .trend {
         width: 275px;
